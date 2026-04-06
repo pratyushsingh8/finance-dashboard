@@ -75,9 +75,13 @@ This application allows users to track financial activity, analyze spending patt
 
 ## 🏗️ Project Structure
 
-```
+
 ![alt text](./image.png)
-```
+
+## 🖼️ Dashboard Preview
+
+![Dashboard](./dashboard.png)
+![Dashboard](./dashboard2.png)
 
 ---
 
