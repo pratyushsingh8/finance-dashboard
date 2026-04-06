@@ -76,7 +76,7 @@ This application allows users to track financial activity, analyze spending patt
 ## 🏗️ Project Structure
 
 ```
-![alt text](image.png)
+![alt text](./image.png)
 ```
 
 ---
