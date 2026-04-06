@@ -109,20 +109,11 @@ npm run dev
 4. Open in browser:
 
 ```
-http://localhost:3000
+https://finance-dashboard-steel-nine.vercel.app
 ```
 
 ---
 
-## 🌐 Deployment
-
-The project can be easily deployed using platforms like Vercel.
-
-```
-npm run build
-```
-
----
 
 ## 🧪 Assumptions & Approach
 
